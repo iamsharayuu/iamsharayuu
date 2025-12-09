@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Sharayu</h1>
 
-<!--
-**iamsharayuu/iamsharayuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌩️ A passionate Cloud & DevOps Enthusiast from India  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔵 About Me
+
+- 🎓 Completed Bachelor of Computer Science (BCS)
+- 🌐 Currently learning **AWS & DevOps** tools  
+- 💡 Passionate about building **scalable cloud solutions**
+- 🧩 Exploring **Terraform, Docker, and Jenkins**
+
+---
+
+## 🔗 Connect with Me
+
+- 🌍 **LinkedIn:** https://www.linkedin.com/in/sharayu-sawant-017b22385/
+- 💻 **GitHub:** https://github.com/iamsharayuu
+- ✉️ **Email:** sawantsharayu91@gmail.com
+
+---
+
+⭐ *Keep learning, keep building!*  
